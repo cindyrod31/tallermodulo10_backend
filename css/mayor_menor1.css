@@ -1,0 +1,33 @@
+body{
+    background: url("https://img.freepik.com/vector-gratis/concepto-ciclo-vida-hombre_74855-6564.jpg?w=1380&t=st=1689393306~exp=1689393906~hmac=c72db0b0a5962871ce5247204f982516dcb40ef2a2d1757bd5efca2a97b86110") no-repeat;
+    background-size: cover;
+
+}
+.main-frame-cal{
+    width: 50%;
+    padding: 50px;
+    height: 450px;
+    border-radius: 30px;
+    background-color: rgba(0, 54, 129, 0.759);
+    box-shadow: 0px 0px 20px 0px rgba(110, 110, 110, 0.775);
+    margin: 7% auto;
+}
+.main-frame-cal label{
+    font-weight: bold;
+    color: #FFFFFF
+}
+button{
+    float: right;       
+}
+
+.home{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 50px;
+}
+
+h1{
+    color: #FFFFFF;
+}
+
